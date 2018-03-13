@@ -1,8 +1,6 @@
-# Trab1_DataScience
+# E1.2 - Evolução no uso de equipamentos de acesso à internet no Brasil, por região (em dupla; entrega em 2018-03-15 às 23:50)
 
 ## Enunciado:
-
-E1.2 - Evolução no uso de equipamentos de acesso à internet no Brasil, por região (em dupla; entrega em 2018-03-15 às 23:50)
 
 Com base nos dados do IBGE (https://downloads.ibge.gov.br/downloads_estatisticas.htm ->  Acesso_a_internet_e_posse_celular) de 2013 a 2015, façam um notebook que:
 
