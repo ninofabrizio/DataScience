@@ -6,7 +6,7 @@ Os arquivos compactados no arquivo dados_CAPES_2018-04-06.zip trazem dados sobre
 O objetivo do trabalho T1.1 é fazer uma análise descritiva e responder algumas perguntas sobre os dados. Sempre que possível, as respostas devem ser dadas numérica e visualmente.
 
 ## Docentes
-1) Quantos professores (docentes) havia em cada programa em 2017, em cada quadro (permanente, colaborador, visitante)?
+1) Quantos professores (docentes) havia em cada instituição em 2017, em cada quadro (permanente, colaborador)?
 
 ## Discentes
 2) Quantos alunos (discentes) de Mestrado/Doutorado havia em cada programa em 2017?
